@@ -10,7 +10,13 @@ The program requires two arguments:
 - The string you would like to find
 - Path to a file you would like to search
 
+### Compile and run
+
 `cargo run searched_string filepath.txt`
+
+### Run released version
+
+`./rust-grep searched_string filepath.txt`
 
 ## Optional Arguments
 
